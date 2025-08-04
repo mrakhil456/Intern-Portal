@@ -5,11 +5,29 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+ In order to install all your project's dependencies into his own "node_modules"
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##Light Mode
+#Login/SignUp Page
+
+<img width="1568" height="745" alt="Screenshot 2025-08-04 234240" src="https://github.com/user-attachments/assets/fb6b8094-6ddf-4866-8562-6ce9d4d0b34f" />
+#Dashboard Page
+
+<img width="1593" height="734" alt="Screenshot 2025-08-04 234301" src="https://github.com/user-attachments/assets/cfcca747-f32a-4c6e-99c6-7ca662af2674" />
+<img width="1581" height="729" alt="Screenshot 2025-08-04 234320" src="https://github.com/user-attachments/assets/611fc4d3-f95e-4dd1-8ed3-bdc1ec594d05" />
+
+##Dark Mode
+<img width="1573" height="742" alt="Screenshot 2025-08-04 234400" src="https://github.com/user-attachments/assets/f4deed2b-07bf-4926-b9a5-a4423221fa56" />
+<img width="1593" height="741" alt="Screenshot 2025-08-04 235346" src="https://github.com/user-attachments/assets/ecf4ddc9-354d-4f59-a43e-8d34ef58c64c" />
+
+
+
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
